@@ -1,6 +1,6 @@
 var twitter = "https://www.twitter.com/Varunshx/";
 var password = "vscode";
-var linkedin = "https://www.linkedin.com/in/varun-sharma/";
+var linkedin = "https://www.linkedin.com/in/varun-sharma-1a865b252/";
 var instagram = "https://www.instagram.com/varushxx/";
 var github = "https://github.com/Varunshxx/";
 var email = 'varunshx@gmail.com';
